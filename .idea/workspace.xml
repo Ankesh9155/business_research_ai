@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="614068ae-17c9-467a-9045-2d47b3a01a18" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/business_research_ai.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/apollo_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/company_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/contact_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/email_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/human_review_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/lead_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/linkedin_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/quality_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/requirement_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/revenue_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/supervisor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/agents/validation_agent.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/leads.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/research.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/apollo_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/credential_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/linkedin_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/session_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/zoominfo_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/create_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/crud.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/postgres.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/lead_research_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphs/state.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/company.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/contact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/lead.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/response.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/sheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/excel_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/excel_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/google_sheet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/logger.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services/scorer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/apollo_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/browser_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/email_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/excel_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/google_search_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/linkedin_tool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/zoominfo_tool.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3FUSG5vi0LyFSrPt9wUirFcC549" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\My+project\business_research_ai" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-2c5460a6694d-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.29188.40" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="614068ae-17c9-467a-9045-2d47b3a01a18" name="Changes" comment="" />
+      <created>1782128055834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782128055834</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

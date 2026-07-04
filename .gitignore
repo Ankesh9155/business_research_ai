@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+auth/sessions/
+server.log
+pipeline_curl.log
+pipeline_result.json
+leads_result.json
